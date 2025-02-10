@@ -1,5 +1,6 @@
 ---
 title: "Practice Activity 6"
+author: Constantine Golematis, Ben Cox, Charlie Jansen
 format: html
 embed-resources: true
 ---
